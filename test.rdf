@@ -84,10 +84,26 @@
     
 
 
+    <!-- http://www.semanticweb.org/2IA/ontologies/test#Fatiha -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/2IA/ontologies/test#Fatiha">
+        <rdf:type rdf:resource="http://www.semanticweb.org/2IA/ontologies/test#Homme"/>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/2IA/ontologies/test#Lord_of_the_rings -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/2IA/ontologies/test#Lord_of_the_rings">
         <rdf:type rdf:resource="http://www.semanticweb.org/2IA/ontologies/test#PaperBook"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/2IA/ontologies/test#Omar -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/2IA/ontologies/test#Omar">
+        <rdf:type rdf:resource="http://www.semanticweb.org/2IA/ontologies/test#Femme"/>
     </owl:NamedIndividual>
     
 
