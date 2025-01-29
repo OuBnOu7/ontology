@@ -67,6 +67,12 @@
     
 
 
+    <!-- http://www.semanticweb.org/2IA/ontologies/test#movie -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/2IA/ontologies/test#movie"/>
+    
+
+
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
@@ -90,6 +96,38 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/2IA/ontologies/test#Solo_leveling">
         <rdf:type rdf:resource="http://www.semanticweb.org/2IA/ontologies/test#Ebook"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/2IA/ontologies/test#amin -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/2IA/ontologies/test#amin">
+        <rdf:type rdf:resource="http://www.semanticweb.org/2IA/ontologies/test#Homme"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/2IA/ontologies/test#one_piece -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/2IA/ontologies/test#one_piece">
+        <rdf:type rdf:resource="http://www.semanticweb.org/2IA/ontologies/test#Ebook"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/2IA/ontologies/test#the_good_father -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/2IA/ontologies/test#the_good_father">
+        <rdf:type rdf:resource="http://www.semanticweb.org/2IA/ontologies/test#movie"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/2IA/ontologies/test#ysf -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/2IA/ontologies/test#ysf">
+        <rdf:type rdf:resource="http://www.semanticweb.org/2IA/ontologies/test#Homme"/>
     </owl:NamedIndividual>
 </rdf:RDF>
 
